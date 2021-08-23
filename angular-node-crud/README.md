@@ -30,3 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 We will start a node project for training and learn new stuff
 
 We will use angular 11,express and node to create a CRUD
+
+Commands to run the app and test:
+
+Once you clone it navigate where you have your new angular-node-crud project and run npm start command then double check the app running by opening a browser and typing: http://localhost:4200/
